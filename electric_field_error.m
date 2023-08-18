@@ -1,4 +1,4 @@
-X = importdata("/Users/gautamthapar/Documents/Trinity College/Dissertation/Meeting 1/X.04");
+X = importdata("X.04");
 R1 = zeros(200,2);
 R2 = zeros(200,2);
 Epsilon_0 = 8.854e-12; 
