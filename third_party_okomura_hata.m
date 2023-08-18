@@ -1,3 +1,5 @@
+% https://uk.mathworks.com/matlabcentral/fileexchange/106085-hata-okumura-model-for-outdoor-propagation
+
 figure;
 plot(e2(:,1),e2(:,2), 'DisplayName', 'current'); hold on; % Add a display name to the plot
 
